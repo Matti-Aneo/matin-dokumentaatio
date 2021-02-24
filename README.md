@@ -85,7 +85,7 @@ this.currentCenter =  this.endWithTooltip;
 ```
 Tässä hieman Vue.js värillisenä:
 
-```js
+```vue
 <script>
 
   
