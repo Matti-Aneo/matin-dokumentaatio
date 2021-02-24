@@ -147,7 +147,7 @@ loadingMoreMobilePages:  false,
 
 ### Tästä sitten pikkasen parempia fotoja
 
-Linkki aneon sivuille [Aneo](htttp://www.aneo.fi) 
+Linkki aneon sivuille [Aneo](http://www.aneo.fi) 
 **==Perkules==**
 ![Metukkaa](https://is.mediadelivery.fi/img/658/4cc35d6c46bd422bb1408457f62c9b48.jpg.webp)
 
